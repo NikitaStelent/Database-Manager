@@ -28,10 +28,6 @@ def show_options():
     X - Exit
     ''')
 
-def next_line():
-    print()
-    print()
-
 
 def next_line():
     print()
