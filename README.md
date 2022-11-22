@@ -7,15 +7,12 @@
 * Create\Delete\Change database data
 * Search and show database records
 
+## Used technologies:
+* [SQlite](https://www.sqlite.org/index.html)
+* [tabulate](https://pypi.org/project/tabulate/)
+
 ## Requirements:
 In order to run the program you need to install:
-
-Used technologies:
-
-Built-in:
-* [SQlite](https://www.sqlite.org/index.html)
-
-Require installation:
 * [tabulate](https://pypi.org/project/tabulate/)
 
 To install tabulate input in your terminal:
