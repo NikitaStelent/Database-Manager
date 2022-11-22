@@ -1,4 +1,3 @@
-global SQL_COLS
 SQL_COLS = {
     'staff': """id INTEGER PRIMARY KEY,
                 name TEXT NOT NULL,
