@@ -1,6 +1,9 @@
 import sqlite3
 from os import path
-
+import user_input as usin
+from company import views
+from company.logger import make_log
+from company.sql_tables import SQL_COLS
 
 def create_db(file_name):
     """Creates database with a given name"""
